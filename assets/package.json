@@ -14,7 +14,9 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
+    "@vitejs/plugin-legacy": "^5.3.2",
     "autoprefixer": "^10.4.19",
+    "daisyui": "^4.10.1",
     "postcss": "^8.4.38",
     "svelte-spa-router": "^4.0.1",
     "tailwindcss": "^3.4.3",
