@@ -8,8 +8,8 @@ export default defineConfig({
   plugins: [
     svelte(),
     pages(),
-    legacy({
-      renderModernChunks: false,
-    }),
+    //legacy({
+    //renderModernChunks: false,
+    //}),
   ],
 });
